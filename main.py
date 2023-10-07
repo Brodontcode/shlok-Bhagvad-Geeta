@@ -50,5 +50,5 @@ for chapter in range(1,19):
             # Handle any exceptions that occur during the API request
             print("Error occurred:", e)
     print(chapter)
-with open("Bhagwat gita.txt","wb") as file:
+with open("Bhagwat-gita-pickled.txt","wb") as file:
     pickle.dump(master,file)
