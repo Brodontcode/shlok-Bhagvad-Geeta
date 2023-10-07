@@ -6,6 +6,6 @@ import pickle
 
 with open(r"/home/kalki/scripts/runner/gita.txt","rb") as f:
     dumpa = pickle.load(f)
-    c = random.randint(0,len(dumpa))
+    c = random.randint(0,len(dumpa)-1)
     for i in dumpa[c]:
         print(i)
