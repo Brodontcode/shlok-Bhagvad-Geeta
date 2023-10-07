@@ -54,3 +54,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 ## [License](/LICENSE)
 This project is licensed under the MIT License. 
+
+
+Please don't accept any [pickled binary file](https://docs.python.org/3/library/pickle.html) from anyone as it has a potential [vulnerability](https://docs.python.org/3/library/pickle.html) always create your own binary file by [using][/main.py]
