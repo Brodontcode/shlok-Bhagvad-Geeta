@@ -2,7 +2,7 @@
 Hare Krshn
 
 # About
-Prints random sloak from श्रीमद्भगवद्गीता (Bhagavad Gita) 
+Prints random shlok from श्रीमद्भगवद्गीता (Bhagavad Gita) 
 
 
 There are two scripts.
