@@ -5,7 +5,8 @@ Hare Krshn
 Prints random sloak from श्रीमद्भगवद्गीता (Bhagavad Gita) 
 
 
-There are two scripts
+There are two scripts.
+
 [main.py](/main.py) - This creates a binary file in python which contains all the lessons of Bhagavad Gita .
 [shloka](/shloka)  - Prints a random verse from Bhagavad Gita .
 
