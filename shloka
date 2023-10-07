@@ -5,7 +5,7 @@ import pickle
 #v=[47,72,43,42,29,47,30,28,34,42,55,20,35,27,20,24,28,78]
 
 with open(r"/home/kalki/scripts/runner/gita.txt","rb") as f:
-    c = random.randint(0,683)
     dumpa = pickle.load(f)
+    c = random.randint(0,len(dumpa))
     for i in dumpa[c]:
         print(i)
