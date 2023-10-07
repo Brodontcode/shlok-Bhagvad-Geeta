@@ -6,8 +6,8 @@ Prints random sloak from श्रीमद्भगवद्गीता (Bhaga
 
 
 There are two scripts
-main.py - This creates a binary file in python which contains all the lessons of Bhagavad Gita .
-shloka  - Prints a random verse from Bhagavad Gita .
+[main.py](/main.py) - This creates a binary file in python which contains all the lessons of Bhagavad Gita .
+[shloka](/shloka)  - Prints a random verse from Bhagavad Gita .
 
 Most of the code is copied from [this](https://github.com/sayampradhan/Bhagvad-Geeta-Quotes) repo.
 
@@ -59,4 +59,4 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 This project is licensed under the MIT License. 
 
 ## Security side
-Please don't accept any [pickled binary file](https://docs.python.org/3/library/pickle.html) from anyone as it has a potential [vulnerability](https://docs.python.org/3/library/pickle.html) always create your own binary file by [using](/main.py)
+Please don't accept any [pickled binary file](https://docs.python.org/3/library/pickle.html) from anyone as it has a potential [vulnerability](https://docs.python.org/3/library/pickle.html) always create your own binary file by using [main.py](/main.py)
